@@ -1,1 +1,1 @@
-# my-static-resume-weebsite
+# my-static-resume-website
